@@ -1,5 +1,8 @@
 # LD38
 
+View the submission here:
+https://ldjam.com/events/ludum-dare/38/planet-pickup/
+
 source for moon image:
 https://pixabay.com/en/moon-planet-outer-space-26619/
 
