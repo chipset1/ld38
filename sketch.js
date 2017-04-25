@@ -89,7 +89,7 @@ function init(){
     let amount = 10;
     score = 0;
 
-    steerTimer = new Timer(5000);
+    steerTimer = new Timer(2000);
     entityContainer.clear();
     _.times(amount, (i)=>{
         entityContainer.add (createSteerer(0, height/2, false));
