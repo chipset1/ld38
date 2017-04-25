@@ -315,7 +315,7 @@ function update(deltaTime){
                 }
             });
         }
-        if(steer1){
+        if(!steer1.notPickedUp){
             entityContainer.get("enemy").forEach((enemy)=>{
                 if(collides(steer1, enemy)){
                     onEnemyDeath(enemy);
