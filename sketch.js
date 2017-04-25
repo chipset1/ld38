@@ -67,7 +67,7 @@ function createSteerer(x, y, notPickedUp){
     };
     let scrollVelX = mapSpeed(-190, -140);
     if(notPickedUp === undefined) notPickedUp = true;
-    var fillColor = color(random(120, 200), 100, 100, mapSpeed(0.9, 0.2));
+    var fillColor = color(random(160, 200), 100, 100, mapSpeed(0.9, 0.2));
     return {pos: createVector(x, y),
             maxSpeed: maxSpeed,
             maxForce: maxForce,
