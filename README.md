@@ -3,6 +3,10 @@
 source for moon image:
 https://pixabay.com/en/moon-planet-outer-space-26619/
 
+![s1](https://raw.githubusercontent.com/chipset1/ld38/master/Screenshot%20(18).png)
+![s2](https://raw.githubusercontent.com/chipset1/ld38/master/Screenshot%20(19).png)
+![s3](https://raw.githubusercontent.com/chipset1/ld38/master/Screenshot%20(20).png)
+
 warming the WTF pm are very high with this code. Will clean up code post jam.
 
 This modified version of p5.js must be used since the image.get() functions's performance is not good.
