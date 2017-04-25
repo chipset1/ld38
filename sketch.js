@@ -1,5 +1,5 @@
 "use strict";
-var debugText = textStackFn(20, 40, 20);
+var debugText = textStackFn(20, 40, 20, false);
 var toggleParticleClickTrails = false;
 
 
