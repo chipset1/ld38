@@ -425,7 +425,10 @@ function draw(){
     rect(0, 0, width-1, height-1);
 
     if(gameNotStarted){
-        if(keyDown(" ")) gameNotStarted = false;
+        if(keyDown(" ")){
+            currentTime = millis();
+            gameNotStarted = false;
+        }
 
         fill(255,0.7);
         textSize(52);
