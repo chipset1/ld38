@@ -3,6 +3,10 @@
 View the submission here:
 https://ldjam.com/events/ludum-dare/38/planet-pickup/
 
+play it here:
+https://chipset.itch.io/ld38
+https://chipset1.github.io/ld38/
+
 source for moon image:
 https://pixabay.com/en/moon-planet-outer-space-26619/
 
